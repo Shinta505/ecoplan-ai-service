@@ -39,7 +39,7 @@ Ikuti langkah-langkah berikut untuk menjalankan *microservice* ini di komputer l
 ### 1. Clone Repositori & Masuk ke Folder
 
 ```bash
-git clone [https://github.com/](https://github.com/)[Shinta505]/ecoplan-ai-service.git
+git clone https://github.com/Shinta505/ecoplan-ai-service.git
 cd ecoplan-ai-service
 
 ```
@@ -149,8 +149,4 @@ docker run -d -p 8000:8000 ecoplan-ai-service
 
 ## 📜 Lisensi & Hak Cipta
 
-Proyek ini dikembangkan untuk.
-
-```
-
-```
+Proyek ini dikembangkan untuk
